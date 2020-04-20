@@ -102,9 +102,11 @@ After you submit your application form, a member of the aelf team will contact y
 Check more details in Code Repos
  
 
-4. June 1,2020- June 218,2020 portfolio evaluation
+4. June 1,2020- June 8,2020 portfolio evaluation
 
-The submissions on Github are first shared to the aelf developer team and the ecosystem construction team. Final judging will be given by the aelf DAO Management Committee.
+The competition judging committee will be members of aelf’s technical team and aelf’s ecosystem development team, and final approval will be handed over to the aelf DAO Management Committee (The members of the saelf governed community will act in lieu temporarily).
+
+This competition will test the DAO governance process. Members of the saelf governed community will then evaluate submissions and decide winners based on the DAO process. The judges participating in the appraisal will share 5% of the reward.
  
 5. June 9,2020, the winners will be announced and the prizes will be awarded
 
