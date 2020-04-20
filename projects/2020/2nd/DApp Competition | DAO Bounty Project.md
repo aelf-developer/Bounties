@@ -83,30 +83,30 @@ The development time is limited to 1 month and the deadline is May 14. All submi
 
 Here is the schedule of the development competition:
 
-1. April 8, 2020 - April 15, 2020: Sign up for the competition
+1. April 21, 2020 - April 29, 2020: Sign up for the competition
 
-Registration begins on April 8.
+Registration begins on April 21.
 
 How to Register：
 
 Sign Up Link: https://forms.gle/KoyxfmUvjEKunbxeA
 
 
-2. April 16, 2020 - Registration Review
+2. April 30, 2020 - Registration Review
 
 After you submit your application form, a member of the aelf team will contact you to confirm your entry qualifies. Participants are required to submit a design proposal for the DApp to enter the development stage.
 
  
-3. April 16, 2020-May 14, 2020: Develop and Deliver the DApp portfolio
+3. April 30, 2020-May 30, 2020: Develop and Deliver the DApp portfolio
 
 Check more details in Code Repos
  
 
-4. May 15,2020- May 21,2020 portfolio evaluation
+4. June 1,2020- June 218,2020 portfolio evaluation
 
 The submissions on Github are first shared to the aelf developer team and the ecosystem construction team. Final judging will be given by the aelf DAO Management Committee.
  
-5. May 22,2020, the winners will be announced and the prizes will be awarded
+5. June 9,2020, the winners will be announced and the prizes will be awarded
 
 The winners will be published in the ELF community
 
