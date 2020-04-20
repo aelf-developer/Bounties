@@ -104,7 +104,7 @@ Check more details in Code Repos
 
 4. June 1,2020- June 8,2020 portfolio evaluation
 
-The competition judging committee will be members of aelf’s technical team and aelf’s ecosystem development team, and final approval will be handed over to the aelf DAO Management Committee (The members of the saelf governed community will act in lieu temporarily).
+The competition judging committee will be members of aelf’s technical team and aelf’s ecosystem development team, and final approval will be handed over to the aelf DAO Management Committee (The members of the saelf governed community will temporarily act in lieu of the committee).
 
 This competition will test the DAO governance process. Members of the saelf governed community will then evaluate submissions and decide winners based on the DAO process. The judges participating in the appraisal will share 5% of the reward.
  
