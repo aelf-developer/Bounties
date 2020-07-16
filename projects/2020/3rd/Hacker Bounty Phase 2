@@ -1,0 +1,89 @@
+1、Project Details
+
+Hacker Bounty Phase 2: The Cross-Chain Transfer Protocol (CCTP) is ready and $100,000 in rewards await hackers around the world to compete!
+
+2、Project Description
+
+As an open-source project, aelf consistently places the highest priority on network security and a high value on the community's contribution to build and maintain secure networks.
+  
+The Bounty Program is about finding vulnerabilities in the Cross-Chain Transfer Protocol (CCTP), so those on the Ethereum Network or aelf will not count. aelf Foundation will lock 1 million ELF in the lock-in contract,  1 million test tokens ELF will be swapped to the aelf testnet via the Cross-Chain Transfer Protocol (CCTP). Participants who are able to hack the CCTP and swap the ELF test tokens to their own account addresses during the event will be rewarded with the equivalent amount of ERC20 ELF tokens. The aelf Foundation will retrieve the bounty if no hackers managed to breach aelf’s CCTP by the end of the event.
+
+※ Hacker Bounty Rules
+Participants can sign up as individuals or teams - there’s no limit on the team size.
+The Bounty Program is about finding vulnerabilities in the Cross-Chain Transfer Protocol (CCTP), so those on the Ethereum Network or aelf will not count. 
+At 12:00 pm (GMT +8) on July 16th, the aelf Foundation will lock 1 million ELF in the lock-in contract.
+At 12:00 pm (GMT +8) on July 27th, a Merkle tree will be generated.
+At 12:00 pm (GMT +8) on August 5th, 1 million ELF test tokens will be swapped to the aelf testnet via the Cross-Chain Transfer Protocol (CCTP).
+Participants who are able to hack the CCTP and swap the ELF test tokens to their own account addresses during the event will be rewarded with the equivalent amount of ERC20 ELF tokens.
+The aelf Foundation will retrieve the bounty if no hackers managed to breach aelf’s CCTP by the end of the event.
+
+
+※  Lock-in Contract Information
+
+Ethereum Mainnet:
+Ethereum mainnet lock-in contract address: 
+0x91517330816d4727edc7c3f5ae4cc5bef02ec70f
+Merkle Tree generate contract address:
+0x76562bD67452359b68fACbfa2d0cc9c1999F566C
+aelf Testnet：
+Side-chain Token mapping contract address:
+RXcxgSXuagn8RrvhQAV81Z652EEYSwR6JLnqHYJ5UVpEptW8Y
+Contract Explorer: 
+https://explorer-test-side01.aelf.io/contract?#https%3A%2F%2Fexplorer-test-side01.aelf.io%2Fviewer%2Fviewer.html%3Faddress%3DRXcxgSXuagn8RrvhQAV81Z652EEYSwR6JLnqHYJ5UVpEptW8Y
+Contract Code GitHub: 
+https://github.com/AElfProject/aelf-boilerplate/tree/token-swap/chain/contract/AElf.Contracts.TokenSwapContract
+
+3、Awards 
+※ Collect the Reward
+Contact Information: 
+For Chinese users: Wechat account: a439714 (DaYuTongXue)
+For English users: Telegram: Itsu Ace (@Itsu_Ace)
+
+4、Team Requirements
+※Team requirements
+Individuals or teams can apply - there is no limit to the team size.
+ 
+※Hacker Bounty Period: 
+Limited to 20 days, the event deadline: August 5th
+As soon as a hacker/team successfully hacks the aelf cross-chain transfer protocol, the event is over and a reward will be released pending a review by aelf’s technical team.
+
+5、Development Roadmap
+The following is the schedule of this hacker bounty project:
+
+July 16th, 2020  20:00
+Bounty activity commences: hackers will start hacking aelf’s cross-chain transfer protocol.
+
+July 27th, 2020  12:00
+Merkle Tree will be generated.
+
+August 5th, 2020
+End of bounty activity: hackers will stop hacking aelf’s cross-chain transfer protocol and wait for the winner announcement.
+
+Hackers will need to present proof of successful hacking, which will be reviewed by the technical team. Rewards will be issued once the proof is deemed successful.
+
+6、Code Repos
+
+Hackers need to show the proof of successful hacking to the aelf team after they have hacked the aelf cross-chain transfer protocol.
+For Chinese users: Wechat account: a439714 (DaYuTongXue)
+For English users: Telegram: Itsu Ace (@Itsu_Ace)
+ 
+The following contents shall be provided to present the proof of successful hacking:
+Code for the hacking process
+An explanation document of the hacking process
+Individual / Team Introduction
+ELF wallet address
+
+7、Additional Information
+If hackers have any problem during the event, please contact our community administrator.
+
+※ Chinese community：
+QQ group:102857654
+Developers operation staff (QQ account): 1373175449
+WeChat ID: a439714 (DaYu)
+ 
+※ Telegram Community：
+Main Community (English): https://t.me/aelfblockchain
+Developer Community: https://t.me/aelfdeveloper
+Contact administrator: Itsu Ace (@Itsu_Ace)
+
+Note: In the event of a breach of the rules, the DAO management committee will retain the right of the final ruling.
