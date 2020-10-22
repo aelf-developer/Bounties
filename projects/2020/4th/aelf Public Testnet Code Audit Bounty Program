@@ -1,0 +1,123 @@
+Project Name
+aelf Public Testnet Code Audit Bounty Program is Open with a Million ELF Prize Pool!
+
+
+Project Description
+As the Mainnet is about to launch, we are opening the global Bounty Program for the aelf Public Testnet Code Audit to tech geeks and security research teams around the world. We invite third-party auditors globally to audit the security of the aelf Public Testnet code for the upcoming Mainnet launch.
+
+※Introduction
+aelf is a decentralized cloud computing blockchain network, based on DPoS consensus, written in C# language.
+aelf is an open-source blockchain network designed as a complete business solution. The structure of ‘one main-chain + multiple side-chains’ can support developers to independently deploy or run DApps on individual side-chains to achieve resource isolation. aelf's technology adopts parallel processing and the unique AEDPoS consensus mechanism. Based on the cross-chain technology of the main-chain index and verification mechanisms, aelf achieves secure communication between the main chain and all side-chains and, as a result, allows direct interoperability between side-chains.
+
+aelf meets the governance needs of varying applications by providing different models, including a Parliament Governance Model, an Association Governance Model, and a Referendum Governance Model. Through the incentive model, the network is equipped with a self-sustainable system and can roll out self-development on a practical basis. Simultaneously, developers can debug, develop and deploy applications based on a mature IDE, provided by aelf.
+
+Requirements:
+Only professional R & D teams are allowed to take part in the program, and should follow the registration process strictly.
+Participants are required to develop a detailed audit strategy with reference to the aelf technical team’s audit objectives. They need to conduct a full security test on the project in a way as close to an actual attack as possible. They also need to submit the complete and standard audit reports as required.
+The main entry and scope of security testing is the engagement in the audit objectives, and may be extended to out-of-scope contexts depending on the actual testing.
+After the audit is completed, the aelf devs team will repair and re-verify the audit problems, and the participants should actively cooperate with the verification process.
+
+Time:
+October 22, 2020 - December 22, 2020 (SGT)
+According to the quantity and quality of the submitted audit reports, the aelf team has the right to terminate the program in advance or extend the deadline.
+
+How to sign up:
+Participants must clearly fill in the relevant registration information in the registration form. After the registration information is submitted, the aelf team will contact the participants in time to confirm their eligibility.
+Registration form：
+
+Audit objectives:
+You must audit all the codes of the Exchange's security and the aelf Public Testnet. You must submit a full audit report.
+(Exchange-side security refers to the security problems that the Exchange may face when accessing the target Mainnet, such as asset loss, business interruption, etc.)
+
+Audit Method:
+Recommended Audit Method:
+
+Black Box: conduct security test as attackers. In black-box testing, a tester doesn't have any information about the internal working of the software system. 
+Gray Box: conduct security test on code module through script tool, observe internal running state and find weaknesses;
+White Box: based on open-source and non open-source code, vulnerability spotting is carried out on nodes, SDK and other programs.
+(Black box and gray box are the key security testing methods recommended by aelf.)
+
+Other audit methods: Other audit methods.
+
+Required items:
+P2P security
+RPC security
+Encryption signature security
+Account and transaction model security
+Code compliance audit
+
+Submission Process and Notices:
+Participants are required to complete the audit reports before the deadline of the event and send it to developer@aelf.io. The email's subject should be [aelf code audit report - xxxx devs team - team contact information] 
+
+https://aelf.io/gridcn/aelf_Public_Testnet_Code_Audit_Report_en.pdf
+
+Audit report content: Your report should have as many security tests as possible. The report should correctly describe the defects, vulnerabilities and potential coding risks in the code. These contents will be included in the final evaluation.
+The system completeness of the audit report and the order of submission will be included in the evaluation.
+Unless officially authorized by aelf, participants shall not disclose the audit reports and test data to any third party. aelf reserves the right to take legal actions against any data breach by participants.
+
+Evaluation & Feedback 
+Evaluation Committee:
+The Evaluation Committee will be consisted of members from the aelf developer team. 
+Evaluation Process:
+After participants submit their audit reports, the aelf developer team will confirm and evaluate the audit reports. The evaluation results will be sent to the auditors once evaluation is completed.
+Winner Announcement:
+After the program is closed, the final winner list and the prize money will be announced on aelf's official account.
+
+
+Some suggestions for getting started with the aelf Public Testnet and implementing code audit quickly: 
+You may need to set up your own node and conduct relevant security tests on it, which helps familiarize yourself with the aelf chain quickly).
+You'd better conduct relevant security tests on the testnet or the mainnet as a whole.
+If you have any questions in the audit process, you can communicate with us any time, and we will answer any questions you have. (These may include but are not limited to: the latest stable source code, relevant deployment scripts or methods, transaction signature scripts, exchange docking scheme, test token, etc.).
+The necessary information of the audit process will be recorded on Google Docs to facilitate timely communication between the audit team and aelf.
+Code Compliance Audit' section contains key information of the Exchange: Code Similarity check, code patch audit, roadmap audit, recharge program audit.
+
+
+Prizes
+
+(1) First Prize
+Prize money: ELF equivalent to 200,000 RMB * one winner
+
+(2) Second Prize
+Prize money: ELF equivalent to 50,000 RMB * one winner
+
+(3) Participation Prize
+Prize money: 8888ELF * three winners
+
+(4) Refferal Prize
+Prize money: 888ELF * five winners
+If you don't know about security technology, you can recommend a developer team that is good at security technology. If the referred participant wins, then you can get a reward of 888 ELF.
+
+Judging criteria:
+The aelf developer team will evaluate comprehensively based on the submission time, content completeness, and quality of the audit reports.
+
+
+Development Roadmap
+The following is the schedule for the aelf Public Testnet code audit
+
+Milestone 1:
+October 22 18:00 - December 22, 2020
+At the beginning of the program, the registration information of global professional developers or security technology teams will be collected. The aelf team will screen the registration information and send invitations to qualified professional developers or security technology teams.
+Qualified professional developers or security technical teams audit the aelf Public Testnet code in accordance with the audit rules stipulated by the aelf team and submit the audit reports.
+
+Milestone 2:
+December 22, 2020 - December 31, 2020
+At the end of the event, the aelf technical team will assess the amount of rewards, distribute the rewards and make public announcements based on the comprehensive quality of the submitted audit reports.
+
+According to the quantity and quality of the submitted audit reports, the aelf team has the right to terminate the program in advance or extend the deadline.
+
+
+Additional Information
+
+Chinese community:
+Telegram Chinese group: https://t.me/aelf_chs
+Contact: Miss aelf (@aelfgirl)
+WeChat ID: zhizunxiaobao617 (aelf 小仙女)
+
+Main Community (English)：https://t.me/aelfblockchain
+Developer Community: https://t.me/aelfdeveloper
+Contact administrator：Doris Guo (@dorisYG)
+
+Overseas community:
+Main Community (English)：https://t.me/aelfblockchain
+Developer Community: https://t.me/aelfdeveloper
+Contact administrator: Doris Guo (@dorisYG)
